@@ -1,0 +1,20 @@
+<resources>
+
+    <string name="app_name">My Week</string>
+    <string name="menu_settings">Opções</string>
+    <string name="menu_sair">Sair</string>
+    <string name="menu_voltar">Voltar</string>
+    <string name="title_activity_main">My Week</string>
+    <string name="seg">Seg</string>
+    <string name="ter">Ter</string>
+    <string name="qua">Qua</string>
+    <string name="qui">Qui</string>
+    <string name="sex">Sex</string>
+    <string name="sab">Sab</string>
+    <string name="dom">Dom</string>
+    <string name="mais">+</string>
+    <string name="voltar">Voltar</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_dia">My Week</string>
+
+</resources>

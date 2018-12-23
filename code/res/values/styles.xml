@@ -1,0 +1,12 @@
+<resources>
+
+    <style name="AppTheme" parent="android:Theme.Light" />
+    <color name="preto">#000</color>
+    <color name="branco">#FFF</color>
+    <color name="cinza_escuro">#999</color>
+    
+    <style name="buttonStyle" parent="@android:style/Widget.Button">
+	  <item name="android:background">@drawable/custom_button</item>
+	</style>
+
+</resources>
