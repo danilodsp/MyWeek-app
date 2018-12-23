@@ -2,13 +2,34 @@
 <resources>
 
     <string name="app_name">My Week</string>
-    <string name="seg">Seg</string>
-    <string name="ter">Ter</string>
-    <string name="qua">Qua</string>
-    <string name="qui">Qui</string>
-    <string name="sex">Sex</string>
-    <string name="sab">Sab</string>
-    <string name="dom">Dom</string>
-    <string name="add">+</string>
+    <string name="app_name_day">My Week</string>
+    <string name="sair_settings">Sair</string>
+    <string name="limpar_settings">Limpar Semana</string>
+    <string name="menu1">Domingo</string>
+    <string name="menu2">Segunda</string>
+    <string name="menu3">Terça</string>
+    <string name="menu4">Quarta</string>
+    <string name="menu5">Quinta</string>
+    <string name="menu6">Sexta</string>
+    <string name="menu7">Sábado</string>
+    <string name="menu1l">Dom</string>
+    <string name="menu2l">Seg</string>
+    <string name="menu3l">Ter</string>
+    <string name="menu4l">Qua</string>
+    <string name="menu5l">Qui</string>
+    <string name="menu6l">Sex</string>
+    <string name="menu7l">Sáb</string>
+    <dimen name="alt_but_menu">50dip</dimen>
+    <dimen name="larg_but_menu">200dip</dimen>
+    <dimen name="alt_but_menul">150dip</dimen>
+    <dimen name="larg_but_menul">150dip</dimen>
+    <dimen name="alt_but_menunl">100dip</dimen>
+    <dimen name="larg_but_menunl">100dip</dimen>
+    <dimen name="alt_but_menus">80dip</dimen>
+    <dimen name="larg_but_menus">80dip</dimen>
+    <dimen name="alt_but_menusp">40dip</dimen>
+    <dimen name="larg_but_menusp">180dip</dimen>
+    <dimen name="texto_menu">20sp</dimen>
+    <dimen name="texto_menug">40sp</dimen>
 
 </resources>
